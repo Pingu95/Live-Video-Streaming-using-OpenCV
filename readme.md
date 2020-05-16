@@ -1,5 +1,5 @@
 # Live Video Streaming using OpenCV
-Scripts which enable live video streaming (using Webcam) between 2 devices over a Local Area Network.
+Scripts which enable live video streaming (using webcam) between 2 devices over a Local Area Network.
 
 ## Requirements
 - Python 3.7+
